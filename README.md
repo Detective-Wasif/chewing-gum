@@ -15,8 +15,7 @@ Each character translates to n spaces:
 | i | 6 |
 | 1 | 7 |
 | r | 8 |
-| 
- | 9 |
+| ¶ | 9 |
 | l | 10 |
 | o | 11 |
 | p | 12 |
